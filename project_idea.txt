@@ -1,0 +1,35 @@
+Project Idea Start?:
+
+    - start with facial recognition
+    - py lib stuff for facial stuff
+    - find demo code
+    - supports mouth detection --> simple math with angles and curves
+        - detects smiles and frowns
+    - AR to add stuff onto your face, etc.
+
+    - take video and add silly things to head/face 
+        - can be used to be silly
+        - can also be used to try on different hairstyles or piercings or facial stuff etc
+        - when they move on video, AR keeps it in place
+
+    - buildling webapp where people can take videos of themselves trying on different hairstyles or even just silly things with their friends and can send to other people
+        - Dress me up app maybe?
+
+    - Start with trying on different hairstyles
+        - then recording video segments
+        - then expand available customizations
+        - build in segments
+
+
+START BY:
+    - getting a video feed into an html page
+    - get it writing to a a html canvas
+    - and see if you can draw a square on top of it
+
+Then:
+    - start reading from the canvas
+    - find shapes in the canvas
+    - follow the shape in the canvas --> object tracking
+    - look into libraries of comparing images (pixels)
+    - comparing previous bg image to current image --> creating two layers
+        - the layer of difference and the layer of sameness which will be replaced by custom bg
