@@ -33,3 +33,14 @@ Then:
     - look into libraries of comparing images (pixels)
     - comparing previous bg image to current image --> creating two layers
         - the layer of difference and the layer of sameness which will be replaced by custom bg
+
+
+LEARN HOW TO PUT VIDEO THROUGH HTML AND THEN PUT VIDEO ON CANVAS
+    - learn html then video on canvas --> learn canvas
+
+
+
+PROJECT TO DO FOR TOMORROW:
+    - play around with html, getusermedia api thingy
+    - learn canvas
+    - put it together
